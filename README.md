@@ -32,17 +32,17 @@ Sagara Gunathunga is a software expert specialized in Integration technologies, 
 Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018.
 
 
-* Project name : Apache Axis2  - SOAP Web Service Engine  [Link](http://axis.apache.org/axis2/java/core/team-list.html)
+* Apache Axis2  - SOAP Web Service Engine  [Link](http://axis.apache.org/axis2/java/core/team-list.html)
 
-* Project name : Apache Woden ( Apache Web Services) - WSDL 2.0 processor and framework [Link](https://ws.apache.org/woden/projectteam.html)
+* Apache Woden ( Apache Web Services) - WSDL 2.0 processor and framework [Link](https://ws.apache.org/woden/projectteam.html)
 
-* Project name : Apache WSS4J ( Apache Web Services) - Web Services Security framework[Link](http://ws.apache.org/team-list.html)
+* Apache WSS4J ( Apache Web Services) - Web Services Security framework[Link](http://ws.apache.org/team-list.html)
 
-* Project name : Apache Neethi ( Apache Web Services) - WS-Policy processor and framework [Link](http://ws.apache.org/team-list.html)
+* Apache Neethi ( Apache Web Services) - WS-Policy processor and framework [Link](http://ws.apache.org/team-list.html)
 
-* Project name : Apache Axiom ( Apache Web Services) - StAX-based, XML Infoset processor and framework [Link](http://ws.apache.org/team-list.html)
+* Apache Axiom ( Apache Web Services) - StAX-based, XML Infoset processor and framework [Link](http://ws.apache.org/team-list.html)
 
-* Project name : Apache Johnzon - JSR-353 based JSON processor [Link](https://johnzon.apache.org/johnzon-websocket/team-list.html)
+* Apache Johnzon - JSR-353 based JSON processor [Link](https://johnzon.apache.org/johnzon-websocket/team-list.html)
 
 
 
