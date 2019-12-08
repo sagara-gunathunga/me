@@ -51,6 +51,15 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 
 ## Workshops (Speaker)
+
+* Kicking Your Enterprise Security Up a Notch with Adaptive Authentication - Amsterdam, Netherlands 2018
+
+* Building Synergies Across APIs and IAM to Digitally Transform Your Enterprise - Stockholm, Sweden 2017 [Link](https://wso2.com/events/workshops/2017-november-stockholm-building-synergies-across-apis-and-iam-to-digitally-transform-your-enterprise/)
+
+* APIs and Identity Management for Your Digital Endeavors - Brussels, Belgium 2017 [Link](https://wso2.com/events/workshops/2017-november-brussels-apis-and-identity-management-for-your-digital-endeavors/?utm_source=twitter&utm_medium=organicpost&utm_campaign=tworgwrkshp_Nov17)
+
+
+
 ## Webinars (Speaker)
 ## Meetups / Community Events (Speaker)
 
