@@ -29,7 +29,7 @@ Sagara Gunathunga is a software expert specialized in Integration technologies, 
 
 ## Open Source Contribution 
 
-Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018.
+Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018. He is also a member of [Kantara User-Managed Access (UMA 2.0) working group](https://kantarainitiative.org/confluence/display/uma/Participant+Roster), contributed implementing [KantaraConsent Receipt Specification](https://kantarainitiative.org/file-downloads/consent-receipt-specification-v1-1-0/) at WSO2 and also presented in Kantara Panel Discussions. 
 
 
 * Apache Axis2  - SOAP Web Service Engine  [Link](http://axis.apache.org/axis2/java/core/team-list.html)
