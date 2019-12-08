@@ -107,4 +107,4 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 * Defining a Winning GDPR Strategy - Identity and Access Management to the Rescue [Link](https://wso2.com/library/article/2018/2/identity-and-access-management-to-the-rescue/)
 
-* Defining a Winning GDPR Strategy - GDPR Compliant Consent Design/ [Link](https://wso2.com/library/articles/2018/02/creating-a-winning-gdpr-strategypart-4-gdpr-compliant-consent-design/)
+* Defining a Winning GDPR Strategy - GDPR Compliant Consent Design [Link](https://wso2.com/library/articles/2018/02/creating-a-winning-gdpr-strategypart-4-gdpr-compliant-consent-design/)
