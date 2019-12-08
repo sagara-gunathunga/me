@@ -53,5 +53,24 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 ## Workshops (Speaker)
 ## Webinars (Speaker)
 ## Meetups / Community Events (Speaker)
+
+* Cloud Native Integration Auckland Meetup - New Zealand - [Microservices Security landscape
+](https://www.meetup.com/Cloud-Native-Integration-Auckland/events/264875158/)
+
+* Cloud Native Integration Wellington Meetup - New Zealand - [Microservices Security landscape
+](https://www.meetup.com/Cloud-Native-Integration-Wellington/events/264911845/)
+
+* Meetup: WSO2 London Meetup - The UK, Topic - [GDPR, Optimizing Your Strategy with Identity and Access Management](https://www.meetup.com/WSO2-London/events/249700541)
+
+* JAVA Colombo Meetup - Sri Lanka, Topic: [Building Microservices with MSF4J-Spring](https://www.meetup.com/java-colombo/events/235907491)
+
+* JAVA Colombo Meetup - Sri Lanka, Topic: [Deep dive into JAX-RS](https://www.meetup.com/java-colombo/events/224782930) 
+
+* WSO2 Colombo Meetup - Sri Lanka, Topic: [JavaEE and RESTful development](https://www.meetup.com/wso2srilanka/events/220553050)
+
+* Apache BarCamp 2012 Colombo - Sri Lanka, Topic: [Contributing to Apache](http://barcamp.org/w/page/50716721/apache-lk-12) 
+
+* Apache Meet Up  2012, Kandy - Sri Lanka, Topic: [Contributing to Apache](https://www.readme.lk/apache-meetup-kandy) 
+
 ## Articles (Author)
 ## Meetups / Community Events (Speaker)
