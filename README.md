@@ -96,6 +96,9 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 * GDPR Is 1 Day Away: Do You Know Where Your Data Is? [Link](http://snip.ly/yw0rt#http://uk.pcmag.com/feature/95023/gdpr-is-2-days-away-do-you-know-where-your-data-is)
 
+* Seven steps for GDPR compliance [Link](https://gdpr.report/news/2018/04/27/seven-steps-for-gdpr-compliance/)
+
+
 * CIAM: The Future of the (Digital) Enterprise [Part 1](https://wso2.com/library/articles/2018/06/ciam-the-future-of-the-digital-enterprise/) [Part 2](https://wso2.com/library/articles/2018/08/ciam-the-future-of-the-digital-enterprise-part-2/?utm_source=linkedin&utm_medium=organicpost&utm_campaign=liorgarti_august18)
 
 * Defining a Winning GDPR Strategy - Introduction to GDPR [Link](https://wso2.com/library/article/2017/12/introduction-to-gdpr/)
