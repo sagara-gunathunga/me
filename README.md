@@ -27,6 +27,8 @@ Sagara Gunathunga is a software expert specialized in Integration technologies, 
 * Apache Roadshow 2009 - Colombo, Sri Lanka - ([2009](https://www.slideshare.net/sagara10/wsdl-20-and-apache-woden/), Colombo, Sri Lanka)
 * IEEE  Industrial and Information Systems - ([2007](https://ieeexplore.ieee.org/document/45791800), Kandy, Sri Lanka)
 
+
+
 ## Open Source Contribution 
 
 Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018. He is also a member of [Kantara User-Managed Access (UMA 2.0) working group](https://kantarainitiative.org/confluence/display/uma/Participant+Roster), contributed implementing [KantaraConsent Receipt Specification](https://kantarainitiative.org/file-downloads/consent-receipt-specification-v1-1-0/) at WSO2 and also presented in Kantara Panel Discussions. 
@@ -50,6 +52,8 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 
 
+
+
 ## Workshops (Speaker)
 
 * Kicking Your Enterprise Security Up a Notch with Adaptive Authentication - Amsterdam, Netherlands 2018
@@ -58,9 +62,13 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 * APIs and Identity Management for Your Digital Endeavors - Brussels, Belgium 2017 [Link](https://wso2.com/events/workshops/2017-november-brussels-apis-and-identity-management-for-your-digital-endeavors/?utm_source=twitter&utm_medium=organicpost&utm_campaign=tworgwrkshp_Nov17)
 
+* Application Development with the WSO2 Platform - Mumbai, India 2014
+
+* Application Development with the WSO2 Platform - Bangalore, India 2014
+
+* Application Development with the WSO2 Platform - Chennai, India 2014
 
 
-## Webinars (Speaker)
 ## Meetups / Community Events (Speaker)
 
 * Cloud Native Integration Auckland Meetup - New Zealand - [Microservices Security landscape
@@ -81,5 +89,19 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 * Apache Meet Up  2012, Kandy - Sri Lanka, Topic: [Contributing to Apache](https://www.readme.lk/apache-meetup-kandy) 
 
+
 ## Articles (Author)
-## Meetups / Community Events (Speaker)
+
+* UMA 2 in Action [Part 1](https://wso2.com/articles/2019/5/user-managed-access-in-action-part-two/?utm_source=linkedin&utm_medium=organicpost&utm_campaign=liorgarti_may19) [Part 2](https://wso2.com/articles/2019/3/user-managed-access-in-action-part-one/?utm_source=linkedin&utm_medium=organicpost&utm_campaign=liorgarti_mar19)
+
+* GDPR Is 1 Day Away: Do You Know Where Your Data Is? [Link](http://snip.ly/yw0rt#http://uk.pcmag.com/feature/95023/gdpr-is-2-days-away-do-you-know-where-your-data-is)
+
+* CIAM: The Future of the (Digital) Enterprise [Part 1](https://wso2.com/library/articles/2018/06/ciam-the-future-of-the-digital-enterprise/) [Part 2](https://wso2.com/library/articles/2018/08/ciam-the-future-of-the-digital-enterprise-part-2/?utm_source=linkedin&utm_medium=organicpost&utm_campaign=liorgarti_august18)
+
+* Defining a Winning GDPR Strategy - Introduction to GDPR [Link](https://wso2.com/library/article/2017/12/introduction-to-gdpr/)
+
+* Defining a Winning GDPR Strategy - 7 Steps for GDPR Compliance [Link](https://wso2.com/library/article/2017/12/7-steps-for-gdpr-compliance/?utm_source=linkedin&utm_medium=organicpost&utm_campaign=liorgarti_fab18)
+
+* Defining a Winning GDPR Strategy - Identity and Access Management to the Rescue [Link](https://wso2.com/library/article/2018/2/identity-and-access-management-to-the-rescue/)
+
+* Defining a Winning GDPR Strategy - GDPR Compliant Consent Design/ [Link](https://wso2.com/library/articles/2018/02/creating-a-winning-gdpr-strategypart-4-gdpr-compliant-consent-design/)
