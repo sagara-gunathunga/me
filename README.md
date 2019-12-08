@@ -15,6 +15,8 @@ Sagara Gunathunga is a software expert specialized in Integration technologies, 
 * Consumer Identity World APAC - ([2018](https://www.kuppingercole.com/events/ciwapac2018/speakers/1880), Singapore)
 * WSO2Con Europe- ([2018](https://eu18.wso2con.com/speakers/), London, UK)
 * Consumer Identity World EUROPE -([2018](https://www.kuppingercole.com/events/ciweu2018/speakers/1880), Amsterdam, Netherlands)
+* Consent and Identity Management, Kantara Panel Discussion  - ([2018] Amsterdam, Netherlands)
+
 * WSO2Con Asia- ([2018](https://asia18.wso2con.com/speakers/), Colombo, Sri Lanka)
 * GDPR Summit - ([2018](https://registration.dataprotectionworldforum.com/EN/gdprsummitapril/GDPR-Roadmap), London, UK)
 * WSO2Con Europe- ([2016](https://asia16.wso2con.com/speakers/), Colombo, Sri Lanka)
