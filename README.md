@@ -44,6 +44,10 @@ Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009
 
 * Apache Johnzon - JSR-353 based JSON processor [Link](https://johnzon.apache.org/johnzon-websocket/team-list.html)
 
+* Apache Nuvem - Open application programming interface for common cloud application services [Link](https://incubator.apache.org/projects/nuvem.html)
+
+* Apache Camel - Integration framework  [Link](https://camel.apache.org/components/2.x/castor-dataformat.html)
+
 
 
 ## Workshops (Speaker)
