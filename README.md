@@ -1,6 +1,12 @@
 ## Sagara Gunathunga
 
-Sagara Gunathunga is a software expert specialized in Integration technologies, application & microservice development and Identity &  Access Management (IAM) domains, also a blogger and long standing open source contributor & committer at the Apache Software Foundation (ASF) , with more than 11 years of industry experience in designing and building critical software systems for global enterprises, including many Fortune 100/500 companies. 
+Sagara Gunathunga is a software expert specialized in Integration technologies, application & microservice development and Identity &  Access Management (IAM) domains, also a blogger and long standing open source contributor & committer at the Apache Software Foundation (ASF) , with more than 12 years of industry experience in designing and building critical software systems for global enterprises, including many Fortune 100/500 companies. 
+
+Sagara was a Director at WSO2 and part of the team that spearheads WSO2’s architecture efforts related to Identity and Access Management (IAM). Sagara has spoken on GDPR and privacy at workshops across the EU and WSO2Con in Europe, USA, and Asia. Sagara has written numerous articles and technical papers related to privacy regulations for the WSO2 knowledge base and Industry index. Prior to his role in WSO2 IAM, Sagara was involved in architecting WSO2 Application Server (now a part of WSO2 Enterprise Integrator) and WSO2 Governance Registry. He specializes in web service, integration, and IAM related technologies.
+
+Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018. He is also a member of [Kantara User-Managed Access (UMA 2.0) working group](https://kantarainitiative.org/confluence/display/uma/Participant+Roster), contributed implementing [KantaraConsent Receipt Specification](https://kantarainitiative.org/file-downloads/consent-receipt-specification-v1-1-0/) at WSO2 and also presented in Kantara Panel Discussions. 
+
+
 
 * **LinkedIn:** https://lk.linkedin.com/in/ssagara 
 * **Twitter:** https://twitter.com/sagaras
@@ -16,23 +22,20 @@ Sagara Gunathunga is a software expert specialized in Integration technologies, 
 * WSO2Con Europe- ([2018](https://eu18.wso2con.com/speakers/), London, UK)
 * Consumer Identity World EUROPE -([2018](https://www.kuppingercole.com/events/ciweu2018/speakers/1880), Amsterdam, Netherlands)
 * Consent and Identity Management, Kantara Panel Discussion  - ([2018] Amsterdam, Netherlands)
-
-* WSO2Con Asia- ([2018](https://asia18.wso2con.com/speakers/), Colombo, Sri Lanka)
+* WSO2Con Asia - ([2018](https://asia18.wso2con.com/speakers/), Colombo, Sri Lanka)
 * GDPR Summit - ([2018](https://registration.dataprotectionworldforum.com/EN/gdprsummitapril/GDPR-Roadmap), London, UK)
-* WSO2Con Europe- ([2016](https://asia16.wso2con.com/speakers/), Colombo, Sri Lanka)
-* WSO2Con Europe- ([2016](https://eu16.wso2con.com/speakers/), London, UK)
-* WSO2Con Asia- ([2018](https://asia18.wso2con.com/speakers/), Colombo, Sri Lanka)
-* WSO2Con USA- ([2015](https://us15.wso2con.com/speakers/), San Francisco, USA)
-* WSO2Con Europe- ([2014](http://eu14.wso2con.com/speakers/), Barcelona, Spain)
+* WSO2Con Asia - ([2018](https://asia18.wso2con.com/speakers/), Colombo, Sri Lanka)
+* WSO2Con Asia - ([2016](https://asia16.wso2con.com/speakers/), Colombo, Sri Lanka)
+* WSO2Con Europe - ([2016](https://eu16.wso2con.com/speakers/), London, UK)
+* WSO2Con USA - ([2015](https://us15.wso2con.com/speakers/), San Francisco, USA)
+* WSO2Con Europe - ([2014](http://eu14.wso2con.com/speakers/), Barcelona, Spain)
+* ApacheCon NA  - 2011](http://na11.apachecon.com/talks/19904), Vancouver, Canada)
 * Apache Roadshow 2009 - Colombo, Sri Lanka - ([2009](https://www.slideshare.net/sagara10/wsdl-20-and-apache-woden/), Colombo, Sri Lanka)
 * IEEE  Industrial and Information Systems - ([2007](https://ieeexplore.ieee.org/document/45791800), Kandy, Sri Lanka)
 
 
 
 ## Open Source Contribution 
-
-Sagara is a PMC member of Apache Axis and Apache Web Services projects from 2009 and also served as the VP of the Apache Web Services project from 2012 to 2018. He is also a member of [Kantara User-Managed Access (UMA 2.0) working group](https://kantarainitiative.org/confluence/display/uma/Participant+Roster), contributed implementing [KantaraConsent Receipt Specification](https://kantarainitiative.org/file-downloads/consent-receipt-specification-v1-1-0/) at WSO2 and also presented in Kantara Panel Discussions. 
-
 
 * Apache Axis2  - SOAP Web Service Engine  [Link](http://axis.apache.org/axis2/java/core/team-list.html)
 
