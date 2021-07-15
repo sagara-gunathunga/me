@@ -1,6 +1,6 @@
 ## Sagara Gunathunga
 
-Sagara is an Integration and Identity Architect, a Product Manager with 14 years of industry experience. Sagara spent 8 years at WSO2 playing Architect & Product Manager roles for several WSO2 products. In 2019 he joined an Integration specialist - IntegrationWorks as the Principle Integration Consultant and moved to New Zealand.
+Sagara is an Integration and Identity Architect, a Product Manager with 14 years of industry experience. Sagara spent 8 years at WSO2 in Architect & Product Manager roles for several WSO2 products. In 2019 he joined an Integration specialist - IntegrationWorks as the Principle Integration Consultant and moved to New Zealand.
 
 At present, Sagara provides technical leadership in a collaborative approach of building a next-generation iPaaS offering based on cloud-native and open-source technologies. He also plays a significant role in developing an in-house PaaS solution that combines cloud platforms, Integration & API-Management with modern DevOps practice. He also provides consultation for key clients especially developing Integration and Customer Identity strategies and roadmaps.
 
