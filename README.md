@@ -2,7 +2,7 @@
 
 Sagara, an Identity and Integration Architect with over 15 years of industry expertise. With 8 years at WSO2 in various roles, including Architect and Product Manager, he then joined IntegrationWorks NZ as a Principal Integration Consultant in 2019 before rejoining WSO2 in 2022. Currently based in Auckland, NZ, Sagara serves as a Director of Solutions Architecture for WSO2 ANZ, focusing on presales, customer engagement, and community enablement in the region.
 
-At IntegrationWorks NZ, Sagara led the development of a cutting-edge iPaaS solution using cloud-native and open-source tech. He also spearheaded the creation of an in-house PaaS integrating cloud platforms, Integration & API Management, and DevOps. Additionally, he advised key clients on Integration and Customer Identity strategies.
+At IntegrationWorks NZ, Sagara led the development of a cutting-edge iPaaS solution using cloud-native and open-source tech. Additionally, he advised key clients on Integration and Customer Identity strategies.
 
 Previously, Sagara served as Architect & Product Manager for WSO2 Identity Server, leading product roadmap definition and development. WSO2 Identity Server earned recognition as a Leader by KuppingerCole and a Top Strong Performer by Forrester. Earlier, he held similar roles for WSO2 Governance Registry and WSO2 Application Server. Sagara also contributed to the design and implementation of the Microservice development framework MSF4J. He led numerous on-site customer engagements for WSO2 globally, serving Fortune 100/500 companies.
 
